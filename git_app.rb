@@ -5,5 +5,5 @@ print "good!"
 name = gets.chomp
 puts "Your name is #{name}"
 
-
+puts "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 #1jhgvbn
